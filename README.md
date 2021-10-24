@@ -3,6 +3,7 @@
 Hello 👋
 
 <a href="https://liberapay.com/mcchris/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P56PGHA)
 
 <!--
 **mcchrish/mcchrish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
