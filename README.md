@@ -2,8 +2,10 @@
 
 Hello 👋
 
+<p align="right">
 <a href="https://liberapay.com/mcchris/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P56PGHA)
+<a href="https://ko-fi.com/P5P56PGHA"><img alt="Donate using ko-fi" src="https://ko-fi.com/img/githubbutton_sm.svg"></a>
+</p>
 
 <!--
 **mcchrish/mcchrish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
