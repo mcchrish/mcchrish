@@ -2,6 +2,8 @@
 
 Hello 👋
 
+<a href="https://liberapay.com/mcchris/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
+
 <!--
 **mcchrish/mcchrish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
