@@ -1,7 +1,3 @@
-### Michael Chris Lopez
-
-Hello 👋
-
 <p align="right">
 <a href="https://liberapay.com/mcchris/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
 <a href="https://ko-fi.com/P5P56PGHA"><img alt="Donate using ko-fi" src="https://ko-fi.com/img/githubbutton_sm.svg"></a>
