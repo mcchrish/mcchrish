@@ -1,4 +1,4 @@
-### Hello there
+### Hello there 👋
 
 I'm a software engineer writing applications mainly using JavaScript/TypeScript.
 I've spent too much time
